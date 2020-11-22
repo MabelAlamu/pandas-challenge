@@ -4,9 +4,7 @@
 We will be analyzing the district-wide standardized test results of some schools in PyCity. We have access to every student's math and reading scores, as well as various information on the schools they attend. Our responsibility is to aggregate the data and showcase obvious trends in school performance.
 The final report should include each of the following:
 
-##District Summary
-
-Create a high level snapshot (in table form) of the district's key metrics, including:
+#District Summary; table form of the district's key metrics
 
 Total Schools
 Total Students
@@ -20,7 +18,7 @@ Average Reading Score
 
 
 
-School Summary
+#School Summary
 
 Create an overview table that summarizes key metrics about each school, including:
 
