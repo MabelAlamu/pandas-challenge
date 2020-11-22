@@ -6,42 +6,17 @@ We will be analyzing the district-wide standardized test results of schools in P
 
 ##District Summary; a table of the district's key metrics, including
 
-Total Schools
-Total Students
-Total Budget
-Average Math Score
-Average Reading Score
-% Passing Math (The percentage of students that passed math.)
-% Passing Reading (The percentage of students that passed reading.)
-% Overall Passing (The percentage of students that passed math and reading.)
+Total Schools, Total Students,Total Budget, Average Math Score, Average Reading Score, % Passing Math (The percentage of students that passed math.), % Passing Reading (The percentage of students that passed reading.), Overall Passing (The percentage of students that passed math and reading.)
 
 
 ##School Summary; a table that summarizes key metrics about each school, including:
 
-School Name
-School Type
-Total Students
-Total School Budget
-Per Student Budget
-Average Math Score
-Average Reading Score
-% Passing Math (The percentage of students that passed math.)
-% Passing Reading (The percentage of students that passed reading.)
-% Overall Passing (The percentage of students that passed math and reading.)
+School Name, School Type, Total Students, Total School Budget, Per Student Budget, Average Math Score, Average Reading Score, % Passing Math (The percentage of students that passed math.), % Passing Reading (The percentage of students that passed reading.), % Overall Passing (The percentage of students that passed math and reading.)
 
 
 ##Top and Bottom Performing Schools (By % Overall Passing); a table that highlights the top and bottom 5 performing schools based on % Overall Passing, including:
 
-School Name
-School Type
-Total Students
-Total School Budget
-Per Student Budget
-Average Math Score
-Average Reading Score
-% Passing Math (The percentage of students that passed math.)
-% Passing Reading (The percentage of students that passed reading.)
-% Overall Passing (The percentage of students that passed math and reading.)
+School Name, School Type, Total Students, Total School Budget, Per Student Budget, Average Math Score, Average Reading Score, % Passing Math (The percentage of students that passed math.), % Passing Reading (The percentage of students that passed reading.), % Overall Passing (The percentage of students that passed math and reading.)
 
 
 ##A table that lists the average Math and Reading Scores by Grade(9th, 10th, 11th, 12th) at each school.
@@ -49,8 +24,4 @@ Average Reading Score
 
 ##Scores by School Spending (average spending ranges per student),School Size and School Type,including:
 
-Average Math Score
-Average Reading Score
-% Passing Math (The percentage of students that passed math.)
-% Passing Reading (The percentage of students that passed reading.)
-% Overall Passing (The percentage of students that passed math and reading.)
+Average Math Score, Average Reading Score, % Passing Math (The percentage of students that passed math.), % Passing Reading (The percentage of students that passed reading.), % Overall Passing (The percentage of students that passed math and reading.)
