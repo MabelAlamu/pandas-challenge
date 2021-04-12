@@ -17,7 +17,7 @@ This script analyzes the district-wide standardized test results of schools in P
   * The percentage of students that passed math **and** reading
 
 
-### School Summary- a table that summarizes key metrics about each school
+### School Summary
 
 * A table that summarizes key metrics about each school, including:
   * School Name
