@@ -52,7 +52,7 @@ This script analyzes the district-wide standardized test results of schools in P
 * A table that lists the average Reading Score for students of each grade level (9th, 10th, 11th, 12th) at each school.
 
 
-### Scores by School Spending (average spending ranges per student),School Size and School Type
+### Scores by School Spending, School Size and School Type
 
 * A table that breaks down school performances based on average Spending Ranges (Per Student), another table that group schools based on a reasonable approximation of school size (Small, Medium, Large), and a table that groups the schools based on school type (Charter vs. District). Each table should include the following:
   * Average Math Score
